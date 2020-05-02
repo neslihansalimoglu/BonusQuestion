@@ -19,6 +19,5 @@ public class Question {
 
     //tostring
     public String tostring(){
-        return "Exam             : " + exam 
-               
+        return "Exam             : " + exam             
 }
